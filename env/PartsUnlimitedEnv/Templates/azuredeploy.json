@@ -28,7 +28,7 @@
 				"osProfile": {
 					"computerName": "[parameters('virtualMachineName')]",
 					"adminUsername": "nextopsadmin",
-					"adminPassword": "Welcome@123",
+					"adminPassword": "Welcome@12345678",
 					"windowsConfiguration": {
 						"provisionVmAgent": "true"
 					}
